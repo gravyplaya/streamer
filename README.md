@@ -10,4 +10,4 @@ Requirements:
 
 NOTE: Currently there is no way to login to Mediafire and you must enter your login creds in the config.php file (soon to be fixed :)
 
-
+UPDATE: (8/21/2013) After some investigation and thought I have decided to rewrite this using the AngularJS framework. The next update will contain completely new code. 
